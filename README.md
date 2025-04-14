@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhouuong&layout=demo&theme=dark)
-![kimhouuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhouuong&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhouyuong&layout=demo&theme=dark)
+![kimhouyuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhouyuong&show_icons=true&theme=dark) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim74420)](https://solved.ac/kim74420)
 <!--
 **kimhouyoung/kimhouyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
