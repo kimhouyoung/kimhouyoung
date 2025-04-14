@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhouuong&layout=demo&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kim74420)](https://solved.ac/kim74420)
 <!--
 **kimhouyoung/kimhouyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?kimhouyoung=kimhouyoung&show_icons=true&theme=dark)   
+--> 
